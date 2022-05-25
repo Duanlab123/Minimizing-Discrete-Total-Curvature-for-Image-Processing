@@ -2,6 +2,7 @@
 
 =============================================================
 @inproceedings{zhong2020minimizing,
+
   title={Minimizing discrete total curvature for image processing},
   
   author={Zhong, Qiuxiang and Li, Yutong and Yang, Yijie and Duan, Yuping},
