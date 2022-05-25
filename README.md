@@ -1,5 +1,4 @@
-# Minimizing-Discrete-Total-Curvature-for-Image-Processing
-Please cite this paper if you use this code in your work. Thank you!
+ Please cite this paper if you use this code in your work. Thank you!
 
 =============================================================
 @inproceedings{zhong2020minimizing,
